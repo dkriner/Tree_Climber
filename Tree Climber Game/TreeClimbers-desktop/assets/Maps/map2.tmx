@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="250" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Terrain" tilewidth="16" tileheight="16" tilecount="960">
+  <image source="tileSet2.png" width="512" height="480"/>
+  <tile id="18">
+   <properties>
+    <property name="goal" value=""/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="59">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="stamina" value=""/>
+   </properties>
+  </tile>
+  <tile id="120">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="122">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="123">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="125">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="126">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="152">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="153">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="154">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="155">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="157">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="158">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="184">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="185">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="186">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="187">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="384">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="385">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="386">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="387">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="416">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="419">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="438">
+   <properties>
+    <property name="playerSpawn" value=""/>
+   </properties>
+  </tile>
+  <tile id="448">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="451">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="453">
+   <properties>
+    <property name="points" value=""/>
+   </properties>
+  </tile>
+  <tile id="454">
+   <properties>
+    <property name="stamina" value=""/>
+   </properties>
+  </tile>
+  <tile id="457">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="458">
+   <properties>
+    <property name="freeze" value=""/>
+   </properties>
+  </tile>
+  <tile id="480">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="481">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="482">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="483">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="498">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="550">
+   <properties>
+    <property name="freeze" value=""/>
+   </properties>
+  </tile>
+  <tile id="557">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="558">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="565">
+   <properties>
+    <property name="points" value=""/>
+   </properties>
+  </tile>
+  <tile id="589">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="590">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="741">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="742">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="773">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="774">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="961" name="terrainSet2" tilewidth="16" tileheight="16" tilecount="544">
+  <image source="../Tree Climber Planning/terrainSet2.png" width="256" height="544"/>
+  <tile id="367">
+   <properties>
+    <property name="points" value=""/>
+   </properties>
+  </tile>
+  <tile id="380">
+   <properties>
+    <property name="playerSpawn" value=""/>
+   </properties>
+  </tile>
+  <tile id="381">
+   <properties>
+    <property name="freeze" value=""/>
+   </properties>
+  </tile>
+  <tile id="382">
+   <properties>
+    <property name="health" value=""/>
+   </properties>
+  </tile>
+  <tile id="383">
+   <properties>
+    <property name="stamina" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Terrain" width="75" height="250">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer name="Items" width="75" height="250">
+  <data encoding="base64" compression="zlib">
+   eJzt2DENAAAIBDHU4l8CHliekFbBzVcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBWpwMAAAAAADjLQwYAAACA/3xAAADIG9hpATM=
+  </data>
+ </layer>
+</map>

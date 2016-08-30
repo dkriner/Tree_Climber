@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="50" tilewidth="16" tileheight="16" nextobjectid="5">
+ <tileset firstgid="1" name="Tiles" tilewidth="16" tileheight="16" tilecount="960">
+  <image source="tileSet2.png" width="512" height="480"/>
+  <tile id="704">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="705">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="706">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="707">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="736">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="739">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="768">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="771">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="800">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="801">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="802">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="803">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="75" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2k0OgjAQBeBCexGVs3FPlYuYkHgNaZQFxtT+pe30vcULYWEyfBnGUpiVUnPBDFqp55geo8vWXSO0otV3rluN98RMIFa5egLJKqW/FjCrIaFOlHlFq3irkHvR3nvIViHXbSJ+06OVq78WWh3OXXUbTStahVmdtuNFv9fitHJb+QTdau8nn0zgVinXhmIV0k+/+gvJqnZv0ioutsf/PU9JT4k9sF56LpeV67nKtd6TFM4rWtGKViWS4z8ZxerxqZP77X1axbyfy7GWlWi1VupZyVYh/ZVjLSvZqvR8o5VMK7vPcBv9gm5VY15LtbKz+qz9U3rvoSUrKWtR154kv+s7WrWQ1q1S3uPsQfmuL0dQ5hWtaNVqaEUrWtFKSmhFK1od8wInzbZ3
+  </data>
+ </layer>
+ <objectgroup name="Walls"/>
+</map>

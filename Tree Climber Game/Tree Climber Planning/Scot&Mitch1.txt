@@ -1,0 +1,16 @@
+Scot:
+
+work on a tile set (mostly terrain and background objects)
+	forest, desert, mountain, underwater, castle
+work with 16x16 tiles
+800x600 resolution (subject to change)
+
+Mitch:
+fix bugs and work on additional implementations
+
+Overall:
+Protagonist and motive
+Level layouts & goals
+
+item types
+enemy types
